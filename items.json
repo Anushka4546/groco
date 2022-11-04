@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "banana",
+            "price": "3000",
+            "imgSrc": "image/product-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Kabocha Pumpkin",
+            "price": "70000",
+            "imgSrc": "image/product-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Meat",
+            "price": "50500",
+            "imgSrc": "image/product-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Milk",
+            "price": "6000",
+            "imgSrc": "image/product-4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Dal",
+            "price": "9000",
+            "imgSrc": "image/product-5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pomegranate",
+            "price": "4000",
+            "imgSrc": "image/product-6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Beetroot",
+            "price": "5000",
+            "imgSrc": "image/product-7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Shrimp",
+            "price": "60000",
+            "imgSrc": "image/product-8.jpg"
+        }
+
+    ],
+
+    "fruits": [
+        {
+            "id": 1,
+            "name": "banana",
+            "price": "3000",
+            "imgSrc": "image/product-1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "apple",
+            "price": "80000",
+            "imgSrc": "image/apple.png"
+        },
+        {
+            "id": 10,
+            "name": "Guava",
+            "price": "5500",
+            "imgSrc": "image/guava.png"
+        },
+        {
+            "id": 11,
+            "name": "Grapes",
+            "price": "10000",
+            "imgSrc": "image/grapes.png"
+        },
+        {
+            "id": 6,
+            "name": "Pomegranate",
+            "price": "4000",
+            "imgSrc": "image/product-6.jpg"
+        }
+
+    ],
+
+    "vegetables": [
+        {
+            "id": 2,
+            "name": "Kabocha Pumpkin",
+            "price": "7000",
+            "imgSrc": "image/product-2.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Beetroot",
+            "price": "5000",
+            "imgSrc": "image/product-7.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Potato",
+            "price": "2000",
+            "imgSrc": "image/potato.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Onion",
+            "price": "1500",
+            "imgSrc": "image/onion.jpeg"
+        }
+
+    ],
+
+    "spices": [
+        {
+            "id": 14,
+            "name": "Turmeric",
+            "price": "5500",
+            "imgSrc": "image/turmeric.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Garam Masala",
+            "price": "6000",
+            "imgSrc": "image/garam-masala.webp"
+        },
+        {
+            "id": 16,
+            "name": "Red chilli Powder",
+            "price": "7800",
+            "imgSrc": "image/red-chilli-powder.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Mustard Seeds",
+            "price": "3500",
+            "imgSrc": "image/mustard-seeds.wepd"
+        }
+
+    ]
+    
+}
